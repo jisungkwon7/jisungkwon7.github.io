@@ -1,0 +1,17 @@
+*Scrapy
+_Virtural invironment
+  activate env_scrapy
+
+*html*
+ 
+
+*cmd*
+_push data 
+  git init
+  git add
+  git commit -m '<name>'
+  git push
+
+_pull data
+  git fetch --all
+  git reset --hard <remote>/<branch_name>
