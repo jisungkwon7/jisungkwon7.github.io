@@ -27,7 +27,7 @@
 
 *html*
  
-
+s
 *mysql*
  - show databases (데이터베이스들의 리스트를 보여준다)
  - CREATE DATABASE 이름 CHARACTER SET utf8 COLLATE utf8_general_ci;('이름'의 데이터베이스를 만든다 utf8)
